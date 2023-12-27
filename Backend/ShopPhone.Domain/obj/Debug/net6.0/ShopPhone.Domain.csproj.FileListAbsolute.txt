@@ -1,0 +1,14 @@
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\bin\Debug\net6.0\ShopPhone.Domain.deps.json
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\bin\Debug\net6.0\ShopPhone.Domain.runtimeconfig.json
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\bin\Debug\net6.0\ShopPhone.Domain.dll
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\bin\Debug\net6.0\ShopPhone.Domain.pdb
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ShopPhone.Domain.csproj.AssemblyReference.cache
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ShopPhone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ShopPhone.Domain.AssemblyInfoInputs.cache
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ShopPhone.Domain.AssemblyInfo.cs
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ShopPhone.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ShopPhone.Domain.dll
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\refint\ShopPhone.Domain.dll
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ShopPhone.Domain.pdb
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ShopPhone.Domain.genruntimeconfig.cache
+C:\Users\NTB1202\source\repos\BTL\ShopPhone.Domain\obj\Debug\net6.0\ref\ShopPhone.Domain.dll
